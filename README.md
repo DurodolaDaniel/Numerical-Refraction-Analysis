@@ -103,7 +103,6 @@ The broader objective of this project was therefore not simply to reproduce a te
 
 physical law → mathematical model → numerical implementation → parameter study → visualization → validation.
 
-# Reproducibility
 # Requirements
 Python 3
 NumPy
